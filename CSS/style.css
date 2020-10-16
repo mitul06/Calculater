@@ -1,0 +1,45 @@
+    .container {
+        text-align: center;
+    }
+    
+    table {
+        margin: auto;
+    }
+    
+    input {
+        font-size: 65px;
+        border: 2px solid black;
+        padding: 5px;
+        margin: 5px;
+        text-align: right;
+        border-radius: 20px;
+        background-color: #f5a226;
+        height: 85px;
+        width: 470px;
+    }
+    
+    button {
+        text-align: center;
+        font-size: 45px;
+        background-color: #18aaaf;
+        width: 114px;
+        height: 70px;
+        padding: auto;
+        margin: 2px;
+        border: 2px solid #d88201;
+        border-radius: 20px;
+    }
+    .calculater{
+        display: inline-block;
+        margin: 90px;
+        padding: 20px;
+        border: 2px solid  #d88201;
+        background-color: #084066;
+        border-radius: 20px;
+        width: 500px;
+        height: 500px;
+    }
+
+    body{
+        background-image: url(./typewriter-801921_1280.jpg);
+    }
